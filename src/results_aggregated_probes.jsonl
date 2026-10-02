@@ -1,0 +1,12 @@
+{"variant": "baseline", "mean_iou": 0.16589106916368102, "std_iou": 0.0055445975500752935, "n_runs": 3, "dataset": "ade20k"}
+{"variant": "registers", "mean_iou": 0.1870672516459965, "std_iou": 0.002030526954464411, "n_runs": 3, "dataset": "ade20k"}
+{"variant": "headwise", "mean_iou": 0.18507190470792168, "std_iou": 0.00029367697361593406, "n_runs": 3, "dataset": "ade20k"}
+{"variant": "headwise_reg", "mean_iou": 0.19916035695841508, "std_iou": 0.0031462220064296604, "n_runs": 3, "dataset": "ade20k"}
+{"variant": "elementwise", "mean_iou": 0.18570649191450192, "std_iou": 0.00375271709060276, "n_runs": 3, "dataset": "ade20k"}
+{"variant": "elementwise_reg", "mean_iou": 0.199886650291171, "std_iou": 0.006214711385896604, "n_runs": 3, "dataset": "ade20k"}
+{"variant": "baseline", "mean_iou": 0.4381234051583652, "std_iou": 0.015550069667247582, "n_runs": 3, "dataset": "pascal_voc"}
+{"variant": "registers", "mean_iou": 0.49896189122226536, "std_iou": 0.001445152698934264, "n_runs": 3, "dataset": "pascal_voc"}
+{"variant": "headwise", "mean_iou": 0.4762360312108433, "std_iou": 0.005699305725119013, "n_runs": 3, "dataset": "pascal_voc"}
+{"variant": "headwise_reg", "mean_iou": 0.5240621136484872, "std_iou": 0.013425324795008646, "n_runs": 3, "dataset": "pascal_voc"}
+{"variant": "elementwise", "mean_iou": 0.47954087494775194, "std_iou": 0.0019827305575190243, "n_runs": 3, "dataset": "pascal_voc"}
+{"variant": "elementwise_reg", "mean_iou": 0.52174630129222, "std_iou": 0.016837873115055114, "n_runs": 3, "dataset": "pascal_voc"}
